@@ -27,8 +27,9 @@ end
 
 def retrieve_element_from_index(array, index_number)
   array = []
-  bill =array[index_number]
-  return bill
+  index_number=bill
+  
+  return array[bill]
 
 end
 
